@@ -1,8 +1,8 @@
 ---
 title: "LATEST BLOG"
 date: 2019-01-21
-
-title: My First Blog
+---
+# title: My First Blog
 author: Yash 
 email: yash.solanki@rapidops.com
 description: > # this means to ignore newlines until "baseurl:"
@@ -15,4 +15,4 @@ github_username:  yash-solanki
 show_excerpts: true # set to false to remove excerpts on the homepage
 
 theme: minima
----
+
